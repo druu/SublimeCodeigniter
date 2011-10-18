@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[/**
+* $1
+*/
+class ${2:ModelName} extends CI_Model
+{
+	function ${3:method_name}($4)
+	{
+		$5
+	}
+}
+]]></content>
+    <tabTrigger>cimodel</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI Model…</description>
+</snippet>
