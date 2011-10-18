@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[\$this->load->library('pagination');
+
+\$config['base_url'] = '${1:http://example.com/index.php/test/page/}';
+\$config['total_rows'] = ${2:200};
+\$config['per_page'] = ${3:20}; 
+
+\$this->pagination->initialize(\$config); 
+
+$4
+]]></content>
+    <tabTrigger>pagi</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: Pagination…</description>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[\$this->load->library('form_validation');
+
+\$this->form_validation->set_rules('${1:field_name}', '${2:Field Label}', '${3:required|xss_clean|}');
+
+if (\$this->form_validation->run() == FALSE)
+{
+	${4:// form validation failed..}
+}
+else
+{
+	${5:// form validation succeeded..}
+}
+]]></content>
+    <tabTrigger>formval</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: Form Validation…</description>
+</snippet>
