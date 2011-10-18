@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[anchor($1,$2)]]></content>
+    <tabTrigger>anchor</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: anchor…</description>
+</snippet>
