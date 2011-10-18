@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[/**
+* $1
+*/
+class ${2:ControllerName} extends CI_Controller
+{
+	function ${3:index}($4)
+	{
+		$5
+	}
+}
+]]></content>
+    <tabTrigger>cicontroller</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: Controller…</description>
+</snippet>

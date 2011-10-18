@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$this->load->view('${1:view_name}', \$${2:data});]]></content>
+    <tabTrigger>view</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: Load View…</description>
+</snippet>

@@ -12,5 +12,5 @@ class ${2:ModelName} extends CI_Model
 ]]></content>
     <tabTrigger>cimodel</tabTrigger>
     <scope>source.php</scope>
-    <description>CI Model…</description>
+    <description>CI: Model…</description>
 </snippet>
