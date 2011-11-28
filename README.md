@@ -6,4 +6,11 @@ To install: clone to SublimeCodeigniter within your Sublime Text 2 package folde
 git clone git://github.com/daylerees/SublimeCodeigniter.git ~/.config/sublime-text-2/Packages/SublimeCodeigniter
 ```
 
+To install on Mac OS execute the following command:
+
+```
+git clone git://github.com/daylerees/SublimeCodeigniter.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/SublimeCodeigniter
+```
+
+
 Enjoy!
