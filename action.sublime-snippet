@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[function ${1:index}($2)
+{
+	$3
+}
+]]></content>
+    <tabTrigger>action</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI: Controller Action…</description>
+</snippet>
